@@ -15,9 +15,9 @@ ReactDOM.render(
       <Navbar.Brand href="#home">
       
       <img
-        src="/icono-blanco.svg"
+        src="/"
         className="align-top"
-        alt="tranqui"
+        alt="purete"
       />
       </Navbar.Brand>
     </Navbar>
